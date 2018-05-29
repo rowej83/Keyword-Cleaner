@@ -1,0 +1,41 @@
+.el-textarea__inner {
+    display: block;
+    resize: vertical;
+    padding: 5px 15px;
+    line-height: 1.5;
+    box-sizing: border-box;
+    width: 500px;
+    font-size: inherit;
+    color: #606266;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #dcdfe6;
+    border-radius: 4px;
+    transition: border-color .2s cubic-bezier(.645,.045,.355,1);
+}
+#scrollup{
+    background:url("../img/arrow-up.png") no-repeat;
+
+
+    width: 64px;
+    height: 64px;
+    position:fixed;
+    top:50%;
+    right:20px;
+    display:none;
+    z-index:1000;
+    text-indent:-9999px;
+}
+.fixed-top {
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.currentbutton{
+    color: #3a8ee6;
+    border-color: #3a8ee6;
+    outline: 0;
+}
