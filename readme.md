@@ -6,7 +6,7 @@ This tool was built using Vuejs (https://vuejs.org/) and Element UI library (htt
 
 The two tools needed for this are http://keywordshitter.com/ and the Keywords Everywhere chrome extension (https://chrome.google.com/webstore/detail/keywords-everywhere-keywo/hbapdpeemoojbophdfndmlgdhppljgmp?hl=en).
 
-A working copy of this app can be found at https://idealwebdesign.net/keywordcleaner/
+A working copy of this app can be found at https://idealwebdesign.net/sites/keywordcleaner/
 
 A video demonstrating it's usage can be found at https://youtu.be/uo-fuNn37LQ
   
